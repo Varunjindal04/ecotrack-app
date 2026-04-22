@@ -68,8 +68,8 @@ This project allows users to:
 
 **Varun Jindal**
 
-- 🔗 LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
-- 💻 GitHub: https://github.com/YOUR_USERNAME  
+- 🔗 LinkedIn: https://www.linkedin.com/in/varun-jindal-707829240/
+- 💻 GitHub: https://github.com/Varunjindal04  
 
 ---
 
