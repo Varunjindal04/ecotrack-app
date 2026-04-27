@@ -171,7 +171,7 @@
 # script()
 
 import streamlit as st
-from functions import calculate_carbon_footprint
+from functions import *
 
 # ---------------- PAGE CONFIG ----------------
 st.set_page_config(
