@@ -1,11 +1,5 @@
 # 🌳 Carbon Footprint Calculator Web App
 
-<a target="_blank" href="https://carbonfootprintcalculator.streamlit.app/">
-  <img src="https://github.com/mesutdmn/Carbon-Footprint-Calculator-App/assets/72805471/9223a800-b63b-4798-8973-ba5697afa88e">
-</a>
-
----
-
 ## 📌 About the Project
 
 The Carbon Footprint Calculator is a web application that helps users estimate their monthly carbon emissions based on their daily lifestyle habits.
