@@ -2,7 +2,8 @@
 <a target="_blank" href="https://carbonfootprintcalculator.streamlit.app/">
   <img src="https://github.com/Varunjindal04/ecotrack-app/blob/main/Carbon%20Footprint%20Calculator%20Web%20Application.png">
 </a>
----
+
+----
 
 ## 📌 About the Project
 
